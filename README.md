@@ -1,4 +1,7 @@
 # NCM-DL
+
+![alt text](https://raw.githubusercontent.com/81Vm3/NCM-DL/master/preview.png)
+
 用Python爬虫从网易云音乐上批量下载歌曲<br/>
 使用BeautifulSoup + selenium webdriver<br/>
 (要使用脚本，你必须要有Chrome driver!)<br/>
