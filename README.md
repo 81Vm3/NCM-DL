@@ -18,8 +18,6 @@
     -a 保存一个专辑内所有的歌曲到一个列表文件<br/>
     -p 保存一个歌单内所有的歌曲到一个列表文件<br/>
 
-(第一次用Python写爬虫还是有挺多bug的:P)
-
 Using Python web scraping to download songs from Netease Music<br/>
 BeautifulSoup + selenium webdriver<br/>
 (To use this script, you must have Chrome driver!)<br/>
@@ -34,4 +32,3 @@ Parameters:<br/>
     -c Downloading only for covers(SRC)<br/>
     -a Save all songs from an album to a list<br/>
     -p Save all songs from a playlist to a list<br/>
-(It's first time I code spider in Python, it may have unknow bugs :P)
